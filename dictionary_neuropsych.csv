@@ -1,0 +1,1346 @@
+Variable name,Definition
+borb_matchtask_visit,The participant has to tell if 2 lines are perfectly parallel or not.
+borb_matchtask_date,
+borb_matchtask_instrument,
+borb_matchtask_age_in_months,
+borb_matchtask_page1_score,Out of 8
+borb_matchtask_page2_score,Out of 8
+borb_matchtask_page3_score,Out of 8
+borb_matchtask_page4_score,Out of 6
+borb_matchtask_total_score,Use this score. Out of 30
+borb_matchtask_page1_response1,Correct: Same
+borb_matchtask_page1_response2,Correct: Different
+borb_matchtask_page1_response3,Correct: Same
+borb_matchtask_page1_response4,Correct: Same
+borb_matchtask_page1_response5,Correct: Different
+borb_matchtask_page1_response6,Correct: Same
+borb_matchtask_page1_response7,Correct: Same
+borb_matchtask_page1_response8,Correct: Different
+borb_matchtask_page2_response1,Correct: Different
+borb_matchtask_page2_response2,Correct: Same
+borb_matchtask_page2_response3,Correct: Different
+borb_matchtask_page2_response4,Correct: Same
+borb_matchtask_page2_response5,Correct: Same
+borb_matchtask_page2_response6,Correct: Same
+borb_matchtask_page2_response7,Correct: Different
+borb_matchtask_page2_response8,Correct: Different
+borb_matchtask_page3_response1,Correct: Same
+borb_matchtask_page3_response2,Correct: Same
+borb_matchtask_page3_response3,Correct: Same
+borb_matchtask_page3_response4,Correct: Same
+borb_matchtask_page3_response5,Correct: Different
+borb_matchtask_page3_response6,Correct: Different
+borb_matchtask_page3_response7,Correct: Different
+borb_matchtask_page3_response8,Correct: Same
+borb_matchtask_page4_response1,Correct: Different
+borb_matchtask_page4_response2,Correct: Different
+borb_matchtask_page4_response3,Correct: Different
+borb_matchtask_page4_response4,Correct: Different
+borb_matchtask_page4_response5,Correct: Same
+borb_matchtask_page4_response6,Correct: Different
+aggies_visit,"The participant has to learn a list of 15 simple figures. There are 5 learning trials followed by 1 trial with a different list. Afterward, the first list has to be identified in 3 recall/recognition trials."
+aggies_date,
+aggies_instrument,
+aggies_age_in_months,
+aggies_trial_a1_correct,Number of correct recalls in the 1st learning trial out of 15
+aggies_trial_a1_intrusion,Number of items drawn that don't correspond to any stimulus in the list
+aggies_trial_a1_repetition,Number of items drawn twice
+aggies_trial_a2_correct,2nd learning trial
+aggies_trial_a2_intrusion,2nd learning trial
+aggies_trial_a2_repetition,2nd learning trial
+aggies_trial_a3_correct,3rd learning trial
+aggies_trial_a3_intrusion,3rd learning trial
+aggies_trial_a3_repetition,3rd learning trial
+aggies_trial_a4_correct,4th learning trial
+aggies_trial_a4_intrusion,4th learning trial
+aggies_trial_a4_repetition,4th learning trial
+aggies_trial_a5_correct,5th learning trial
+aggies_trial_a5_intrusion,5th learning trial
+aggies_trial_a5_repetition,5th learning trial
+aggies_trial_b1_correct,List B correct recalls
+aggies_trial_b1_intrusion,List B recalls not from list B
+aggies_trial_b1_repetition,List B repetitions
+aggies_trial_a6_correct,Immediate recall score
+aggies_trial_a6_intrusion,Recalls not from list A
+aggies_trial_a6_repetition,List A repetitions
+aggies_trial_a7_correct,Delayed recall score
+aggies_trial_a7_intrusion,Recalls not from list A
+aggies_trial_a7_repetition,List A repetitions
+aggies_list_a_total_correct_recognition,Number of list A items that were recognized  out of 15
+aggies_list_b_total_correct_recognition,Number of list B items that were recognized out of 15
+aggies_total_false_positive,Number of false recognitions out of 22 distractors
+aggies_trial_a1_response_1,Identification of the 1st item drawn right after learning trial 1
+aggies_trial_a2_response_1,Identification of the 1st item drawn after learning trial 2
+aggies_trial_a3_response_1,Trial 3
+aggies_trial_a4_response_1,Trial 4
+aggies_trial_a5_response_1,Trial 5
+aggies_trial_a1_response_2,Identification of the 2st item drawn after learning trial 1
+aggies_trial_a2_response_2,Identification of the 1st item drawn after learning trial 2
+aggies_trial_a3_response_2,Trial 3
+aggies_trial_a4_response_2,Trial 4
+aggies_trial_a5_response_2,Trial 5
+aggies_trial_a1_response_3,Etc
+aggies_trial_a2_response_3,
+aggies_trial_a3_response_3,
+aggies_trial_a4_response_3,
+aggies_trial_a5_response_3,
+aggies_trial_a1_response_4,
+aggies_trial_a2_response_4,
+aggies_trial_a3_response_4,
+aggies_trial_a4_response_4,
+aggies_trial_a5_response_4,
+aggies_trial_a1_response_5,
+aggies_trial_a2_response_5,
+aggies_trial_a3_response_5,
+aggies_trial_a4_response_5,
+aggies_trial_a5_response_5,
+aggies_trial_a1_response_6,
+aggies_trial_a2_response_6,
+aggies_trial_a3_response_6,
+aggies_trial_a4_response_6,
+aggies_trial_a5_response_6,
+aggies_trial_a1_response_7,
+aggies_trial_a2_response_7,
+aggies_trial_a3_response_7,
+aggies_trial_a4_response_7,
+aggies_trial_a5_response_7,
+aggies_trial_a1_response_8,
+aggies_trial_a2_response_8,
+aggies_trial_a3_response_8,
+aggies_trial_a4_response_8,
+aggies_trial_a5_response_8,
+aggies_trial_a1_response_9,
+aggies_trial_a2_response_9,
+aggies_trial_a3_response_9,
+aggies_trial_a4_response_9,
+aggies_trial_a5_response_9,
+aggies_trial_a1_response_10,
+aggies_trial_a2_response_10,
+aggies_trial_a3_response_10,
+aggies_trial_a4_response_10,
+aggies_trial_a5_response_10,
+aggies_trial_a1_response_11,
+aggies_trial_a2_response_11,
+aggies_trial_a3_response_11,
+aggies_trial_a4_response_11,
+aggies_trial_a5_response_11,
+aggies_trial_a1_response_12,
+aggies_trial_a2_response_12,
+aggies_trial_a3_response_12,
+aggies_trial_a4_response_12,
+aggies_trial_a5_response_12,
+aggies_trial_a1_response_13,
+aggies_trial_a2_response_13,
+aggies_trial_a3_response_13,
+aggies_trial_a4_response_13,
+aggies_trial_a5_response_13,
+aggies_trial_a1_response_14,
+aggies_trial_a2_response_14,
+aggies_trial_a3_response_14,
+aggies_trial_a4_response_14,
+aggies_trial_a5_response_14,
+aggies_trial_a1_response_15,
+aggies_trial_a2_response_15,
+aggies_trial_a3_response_15,
+aggies_trial_a4_response_15,
+aggies_trial_a5_response_15,
+aggies_time_ended,Nonsense
+aggies_time_began,Madness
+aggies_time_elapsed_since_immediate_recall_mins,Time interval between the end of the 5th learning trial and the delayed recall trial (a7)
+aggies_trial_b1_response_1,Successful recall of item 1 during the list B trial
+aggies_trial_a6_response_1,Item 1 recall during the immediate recall
+aggies_trial_a7_response_1,Item 1 recall during the delayed recall
+aggies_trial_b1_response_2,etc
+aggies_trial_a6_response_2,
+aggies_trial_a7_response_2,
+aggies_trial_b1_response_3,
+aggies_trial_a6_response_3,
+aggies_trial_a7_response_3,
+aggies_trial_b1_response_4,
+aggies_trial_a6_response_4,
+aggies_trial_a7_response_4,
+aggies_trial_b1_response_5,
+aggies_trial_a6_response_5,
+aggies_trial_a7_response_5,
+aggies_trial_b1_response_6,
+aggies_trial_a6_response_6,
+aggies_trial_a7_response_6,
+aggies_trial_b1_response_7,
+aggies_trial_a6_response_7,
+aggies_trial_a7_response_7,
+aggies_trial_b1_response_8,
+aggies_trial_a6_response_8,
+aggies_trial_a7_response_8,
+aggies_trial_b1_response_9,
+aggies_trial_a6_response_9,
+aggies_trial_a7_response_9,
+aggies_trial_b1_response_10,
+aggies_trial_a6_response_10,
+aggies_trial_a7_response_10,
+aggies_trial_b1_response_11,
+aggies_trial_a6_response_11,
+aggies_trial_a7_response_11,
+aggies_trial_b1_response_12,
+aggies_trial_a6_response_12,
+aggies_trial_a7_response_12,
+aggies_trial_b1_response_13,
+aggies_trial_a6_response_13,
+aggies_trial_a7_response_13,
+aggies_trial_b1_response_14,
+aggies_trial_a6_response_14,
+aggies_trial_a7_response_14,
+aggies_trial_b1_response_15,
+aggies_trial_a6_response_15,
+aggies_trial_a7_response_15,
+aggies_recognition_response_1,Was item 1 identified as having been seen before. This is a distractor
+aggies_recognition_response_12,From list B
+aggies_recognition_response_23,From list B
+aggies_recognition_response_34,This is a distractor.
+aggies_recognition_response_45,From list B
+aggies_recognition_response_2,This is a distractor.
+aggies_recognition_response_13,This is a distractor.
+aggies_recognition_response_24,From list A
+aggies_recognition_response_35,From list A
+aggies_recognition_response_46,This is a distractor.
+aggies_recognition_response_3,From list A
+aggies_recognition_response_14,From list A
+aggies_recognition_response_25,This is a distractor.
+aggies_recognition_response_36,This is a distractor.
+aggies_recognition_response_47,From list B
+aggies_recognition_response_4,This is a distractor.
+aggies_recognition_response_15,From list A
+aggies_recognition_response_26,From list B
+aggies_recognition_response_37,From list A
+aggies_recognition_response_48,This is a distractor.
+aggies_recognition_response_5,From list A
+aggies_recognition_response_16,This is a distractor.
+aggies_recognition_response_27,From list B
+aggies_recognition_response_38,This is a distractor.
+aggies_recognition_response_49,This is a distractor.
+aggies_recognition_response_6,This is a distractor.
+aggies_recognition_response_17,This is a distractor.
+aggies_recognition_response_28,From list B
+aggies_recognition_response_39,From list A
+aggies_recognition_response_50,From list A
+aggies_recognition_response_7,From list B
+aggies_recognition_response_18,From list A
+aggies_recognition_response_29,This is a distractor.
+aggies_recognition_response_40,From list A
+aggies_recognition_response_51,This is a distractor.
+aggies_recognition_response_8,From list A
+aggies_recognition_response_19,From list B
+aggies_recognition_response_30,From list B
+aggies_recognition_response_41,This is a distractor.
+aggies_recognition_response_52,From list B
+aggies_recognition_response_9,This is a distractor.
+aggies_recognition_response_20,From list A
+aggies_recognition_response_31,From list A
+aggies_recognition_response_42,From list B
+aggies_recognition_response_10,From list A
+aggies_recognition_response_21,This is a distractor.
+aggies_recognition_response_32,This is a distractor.
+aggies_recognition_response_43,From list B
+aggies_recognition_response_11,This is a distractor.
+aggies_recognition_response_22,From list B
+aggies_recognition_response_33,From list B
+aggies_recognition_response_44,This is a distractor.
+aggies_trial_a1_response_16,Continuation of previous fields in case more than 15 responses are given
+aggies_trial_a2_response_16,
+aggies_trial_a3_response_16,
+aggies_trial_a4_response_16,
+aggies_trial_a5_response_16,
+aggies_trial_a1_response_17,
+aggies_trial_a2_response_17,
+aggies_trial_a3_response_17,
+aggies_trial_a4_response_17,
+aggies_trial_a5_response_17,
+aggies_trial_a1_response_18,
+aggies_trial_a2_response_18,
+aggies_trial_a3_response_18,
+aggies_trial_a4_response_18,
+aggies_trial_a5_response_18,
+aggies_trial_a1_response_19,
+aggies_trial_a2_response_19,
+aggies_trial_a3_response_19,
+aggies_trial_a4_response_19,
+aggies_trial_a5_response_19,
+aggies_trial_a1_response_20,
+aggies_trial_a2_response_20,
+aggies_trial_a3_response_20,
+aggies_trial_a4_response_20,
+aggies_trial_a5_response_20,
+aggies_trial_a1_response_21,
+aggies_trial_a2_response_21,
+aggies_trial_a3_response_21,
+aggies_trial_a4_response_21,
+aggies_trial_a5_response_21,
+aggies_trial_a1_response_22,
+aggies_trial_a2_response_22,
+aggies_trial_a3_response_22,
+aggies_trial_a4_response_22,
+aggies_trial_a5_response_22,
+aggies_trial_a1_response_23,
+aggies_trial_a2_response_23,
+aggies_trial_a3_response_23,
+aggies_trial_a4_response_23,
+aggies_trial_a5_response_23,
+aggies_trial_a1_response_24,
+aggies_trial_a2_response_24,
+aggies_trial_a3_response_24,
+aggies_trial_a4_response_24,
+aggies_trial_a5_response_24,
+aggies_trial_a1_response_25,
+aggies_trial_a2_response_25,
+aggies_trial_a3_response_25,
+aggies_trial_a4_response_25,
+aggies_trial_a5_response_25,
+aggies_trial_b1_response_16,
+aggies_trial_a6_response_16,
+aggies_trial_a7_response_16,
+aggies_trial_b1_response_17,
+aggies_trial_a6_response_17,
+aggies_trial_a7_response_17,
+aggies_trial_b1_response_18,
+aggies_trial_a6_response_18,
+aggies_trial_a7_response_18,
+aggies_trial_b1_response_19,
+aggies_trial_a6_response_19,
+aggies_trial_a7_response_19,
+aggies_trial_b1_response_20,
+aggies_trial_a6_response_20,
+aggies_trial_a7_response_20,
+aggies_trial_b1_response_21,
+aggies_trial_a6_response_21,
+aggies_trial_a7_response_21,
+aggies_trial_b1_response_22,
+aggies_trial_a6_response_22,
+aggies_trial_a7_response_22,
+aggies_trial_b1_response_23,
+aggies_trial_a6_response_23,
+aggies_trial_a7_response_23,
+aggies_trial_b1_response_24,
+aggies_trial_a6_response_24,
+aggies_trial_a7_response_24,
+aggies_trial_b1_response_25,
+aggies_trial_a6_response_25,
+aggies_trial_a7_response_25,
+borb_visit,The participant has to identify if images depict real or chimaerical animals
+borb_date,
+borb_instrument,
+borb_age_in_months,
+borb_real_score,Number of correctly identified real animals or tools out of 16
+borb_unreal_score,Number of correctly identified chimaerical animals or tools out of 16
+borb_total_score,Number of correctly identified stimuli out of 32
+borb_target1,Correct: R - COW
+borb_target2,Correct: UR - Camel/Duck
+borb_target3,Correct: UR - Cockerel/Donkey
+borb_target4,Correct: UR - Donkey/Cockerel
+borb_target5,Correct: UR - Duck/Camel
+borb_target6,Correct: R - Deer
+borb_target7,Correct: UR - Giraffe/duck
+borb_target8,Correct: UR - Horse/Fox
+borb_target9,Correct: R - Dog
+borb_target10,Correct: UR - Kangaroo/Snake
+borb_target11,Correct: UR - Leopard/Rhino
+borb_target12,Correct: R - Fox
+borb_target13,Correct: R - Goat
+borb_target14,Correct: R - Lion
+borb_target15,Correct: UR - Monkey/Rabbit
+borb_target16,Correct: UR - Mouse/Zebra
+borb_target17,Correct: R - Pliers
+borb_target18,Correct: UR - Pig/lion
+borb_target19,Correct: R - Scissors
+borb_target20,Correct: R - Screw
+borb_target21,Correct: UR - Rabbit/Lion
+borb_target22,Correct: R - Seal
+borb_target23,Correct: R - Sheep
+borb_target24,Correct: R - Snake
+borb_target25,Correct: UR - Screwdriver/scissors
+borb_target26,Correct: R - Swan
+borb_target27,Correct: R - Rhino
+borb_target28,Correct: UR - Seahorse/Duck
+borb_target29,Correct: UR - Squirrel/Zebra
+borb_target30,Correct: UR - Tiger/Mouse
+borb_target31,Correct: R - Tortoise
+borb_target32,Correct: R - Zebra
+boston_visit,The participant has to name objects depicted in relatively abstract drawings
+boston_date,
+boston_instrument,
+boston_age_in_months,
+boston_total_score_without_cues,Correct object identifications without the need for cues (out of 30)
+boston_total_score_with_cues,Correct object identifications including those where cues were required (out of 30) There are 2 cues: semantic (given 1st) and phonological (given last)
+boston_item1,House
+boston_item2,Whistle
+boston_item3,Scissors
+boston_item4,Helicopter
+boston_item5,Octopus
+boston_item6,Mushroom
+boston_item7,Camel
+boston_item8,Mask
+boston_item9,Racket
+boston_item10,Snail
+boston_item11,Volcano
+boston_item12,Dart
+boston_item13,Beaver
+boston_item14,Harmonica
+boston_item15,Rhinoceros
+boston_item16,Acorn
+boston_item17,Igloo
+boston_item18,Stilts
+boston_item19,Dominos
+boston_item20,Pelican
+boston_item21,Stethoscope
+boston_item22,Pyramid
+boston_item23,Muzzle
+boston_item24,Funnel
+boston_item25,Accordion
+boston_item26,Asparagus
+boston_item27,Compass
+boston_item28,Parchment/scroll
+boston_item29,Tongs
+boston_item30,Palette
+visit_type_neuropsych_dkefs_category_fluency,The participant has to name as many items from a semantic category as possible within a period of 60 seconds. There are 2 categories.
+date_neuropsych_dkefs_category_fluency,
+instrument_neuropsych_dkefs_category_fluency,
+examiner_neuropsych_dkefs_category_fluency,
+date_taken_neuropsych_dkefs_category_fluency,
+candidate_age_neuropsych_dkefs_category_fluency,
+window_difference_neuropsych_dkefs_category_fluency,
+test_not_administered_or_complete_neuropsych_dkefs_category_fluency,
+test_incomplete_reason_code_neuropsych_dkefs_category_fluency,
+total_raw_score_animals_neuropsych_dkefs_category_fluency,Total number of correct animals named within 60 seconds
+total_raw_score_boys_neuropsych_dkefs_category_fluency,Total number of correct boys names named within 60 seconds
+total_raw_score_combined_neuropsych_dkefs_category_fluency,Total correct namings of both categories
+num_words_animals_1_neuropsych_dkefs_category_fluency,Number of correct animal names produced in the first 15 seconds
+num_words_animals_2_neuropsych_dkefs_category_fluency,Number of correct animal names produced between 16 and 30 seconds
+num_words_animals_3_neuropsych_dkefs_category_fluency,Number of correct animal names produced between 31 and 45 seconds
+num_words_animals_4_neuropsych_dkefs_category_fluency,Number of correct animal names in the last 15 seconds
+num_words_boys_1_neuropsych_dkefs_category_fluency,Number of correct boys names produced in the first 15 seconds
+num_words_boys_2_neuropsych_dkefs_category_fluency,Number of correct boys names produced between 16 and 30 seconds
+num_words_boys_3_neuropsych_dkefs_category_fluency,Number of correct boys names produced between 31 and 45 seconds
+num_words_boys_4_neuropsych_dkefs_category_fluency,Number of correct boys names in the last 15 seconds
+overall_scaled_score_neuropsych_dkefs_category_fluency,"Scaled score for the whole test (mean = 10, SD = 3)"
+repetition_errors_animals_neuropsych_dkefs_category_fluency,Animal names named more than once
+repetition_errors_boys_neuropsych_dkefs_category_fluency,Boys names named more than once
+total_repetition_errors_combined_neuropsych_dkefs_category_fluency,
+set_loss_errors_animals_neuropsych_dkefs_category_fluency,Number of words produced that are not animals
+set_loss_errors_boys_neuropsych_dkefs_category_fluency,Number of words produced that are not boys names
+total_set_loss_errors_combined_neuropsych_dkefs_category_fluency,
+text_response_animals_1_neuropsych_dkefs_category_fluency,Words produced in the first 15 seconds
+text_response_animals_2_neuropsych_dkefs_category_fluency,Words produced between 16 and 30 seconds
+text_response_animals_3_neuropsych_dkefs_category_fluency,Words produced between 31 and 45 seconds
+text_response_animals_4_neuropsych_dkefs_category_fluency,Words produced in the last 15 seconds
+text_response_boys_1_neuropsych_dkefs_category_fluency,Words produced in the first 15 seconds
+text_response_boys_2_neuropsych_dkefs_category_fluency,Words produced between 16 and 30 seconds
+text_response_boys_3_neuropsych_dkefs_category_fluency,Words produced between 31 and 45 seconds
+text_response_boys_4_neuropsych_dkefs_category_fluency,Words produced in the last 15 seconds
+letter_vs_category_contrast_neuropsych_dkefs_category_fluency,"Scaled score difference between letter fluency (F, A and S) and category fluency"
+candidate_resp_animals1_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_animals1_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_animals2_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_animals2_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_animals3_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_animals3_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_animals4_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_animals4_neuropsych_dkefs_category_fluency,Redundant
+total_set_loss_errors_animals_neuropsych_dkefs_category_fluency,Redundant
+total_set_loss_errors_animals_status_neuropsych_dkefs_category_fluency,Redundant
+total_repetition_errors_animals_neuropsych_dkefs_category_fluency,Redundant
+total_repetition_errors_animals_status_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_boys1_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_boys1_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_boys2_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_boys2_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_boys3_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_boys3_neuropsych_dkefs_category_fluency,Redundant
+candidate_resp_boys4_neuropsych_dkefs_category_fluency,Redundant
+num_correct_resp_boys4_neuropsych_dkefs_category_fluency,Redundant
+total_set_loss_errors_boys_neuropsych_dkefs_category_fluency,Redundant
+total_set_loss_errors_boys_status_neuropsych_dkefs_category_fluency,Redundant
+total_repetition_errors_boys_neuropsych_dkefs_category_fluency,Redundant
+total_repetition_errors_boys_status_neuropsych_dkefs_category_fluency,Redundant
+total_responses_neuropsych_dkefs_category_fluency,Redundant
+total_responses_status_neuropsych_dkefs_category_fluency,Redundant
+dkefs_color_visit_type,"The participant has to either name the color of a stimulus or read it aloud. The test has 4 conditions : color naming, word reading, inhibition (name the color of a word that means a different color) and switching (between reading and naming the color)"
+dkefs_color_date,
+dkefs_color_instrument,
+dkefs_color_age_in_months,
+dkefs_color_uncorrected_errors_color_naming,Condition 1 (naming) count of error that the participant did not correct 
+dkefs_color_selfcorrected_errors_color_naming,Condition 1 (naming) count of error that the participant corrected
+dkefs_color_time_color_naming,Time to go through the 50 stimuli of the condition 1 (naming)
+dkefs_color_uncorrected_errors_color_reading,Condition 2 (reading) count of error that the participant did not correct 
+dkefs_color_selfcorrected_errors_color_reading,Condition 2 (reading) count of error that the participant corrected
+dkefs_color_time_color_reading,Time to go through the 50 stimuli of the condition 2 (reading)
+dkefs_color_uncorrected_errors_inhibition,Condition 3 (inhibition) count of error that the participant did not correct 
+dkefs_color_selfcorrected_errors_inhibition,Condition 3 (inhibition) count of error that the participant corrected
+dkefs_color_time_inhibition,Time to go through the 50 stimuli of the condition 3 (inhibition)
+dkefs_color_uncorrected_errors_switching,Condition 4 (inhibition/switching) count of error that the participant did not correct 
+dkefs_color_selfcorrected_errors_switching,Condition 4 (inhibition/switching) count of error that the participant corrected
+dkefs_color_time_switching,Time to go through the 50 stimuli of the condition 4 (inhibition/switching)
+dkefs_lf_visit_type,"The participant has to name as many words as possible that start with a given letter (F, A and S in English, P, F and L in French)"
+dkefs_lf_date,
+dkefs_lf_instrument,
+dkefs_lf_age,
+total_raw_score,Total number of correct words produced within all 3 trials
+total_scaled_score,"Scaled score for the whole test (mean = 10, SD = 3)"
+total_count_interval1,Number of correct words produced in the first 15 seconds
+total_count_interval2,Number of correct words produced between 16 and 30 seconds
+total_count_interval3,Number of correct words produced between 31 and 45 seconds
+total_count_interval4,Number of correct words produced in the last 15 seconds
+total_count_letter1,Letter F - total over 60 seconds
+total_count_letter2,Letter A - total over 60 seconds
+total_count_letter3,Letter S - total over 60 seconds
+total_repetition,Words produced more than once within one trial (total for all 3 trials)
+total_setloss,Wrong words produced (total for all 3 trials)
+response_letter1_interval1,F - first 15 secs
+count_letter1_interval1,Number of words
+response_letter1_interval2,F - 16-30 secs
+count_letter1_interval2,Number of words
+response_letter1_interval3,F - 31-45 secs
+count_letter1_interval3,Number of words
+response_letter1_interval4,F - last 15 secs
+count_letter1_interval4,Number of words
+total_setloss_letter1,Errors for F
+total_repetition_letter1,Repetitions for F
+response_letter2_interval1,A - first 15 secs
+count_letter2_interval1,Number of words
+response_letter2_interval2,A - 16-30 secs
+count_letter2_interval2,Number of words
+response_letter2_interval3,A - 31-45 secs
+count_letter2_interval3,Number of words
+response_letter2_interval4,A - last 15 secs
+count_letter2_interval4,Number of words
+total_setloss_letter2,Errors for A
+total_repetition_letter2,Repetitions for A
+response_letter3_interval1,S - first 15 secs
+count_letter3_interval1,Number of words
+response_letter3_interval2,S - 16-30 secs
+count_letter3_interval2,Number of words
+response_letter3_interval3,S - 31-45 secs
+count_letter3_interval3,Number of words
+response_letter3_interval4,S - last 15 secs
+count_letter3_interval4,Number of words
+total_setloss_letter3,Errors for S
+total_repetition_letter3,Repetitions for S
+dsymb_visit_type,The participant has to translate digits into symbol by using a key at the top of the page. Each number has a symbol associated to it. The participant has 120 seconds(?) to translate as many digits as possible. From the WAIS-III
+dsymb_date,
+dsymb_instrument,
+dsymb_candidate_age,
+dsymb_raw_score,Number of correctly translated digits (max = 133)
+dsymb_scaled_score,"Scaled score (mean = 10, SD = 3)"
+dsymb_pairing_correct_raw_score,Not sure what this stands for
+dsymb_recall_correct_raw_score,Number of correctly recalled symbol after the pairing/translation phase (out of 9)
+dsymb_completion_time,Time required (generally 120 seconds)
+dsymb_total_raw_score,Redundant
+dsymb_pairing,Redundant
+dsymb_recall,Redundant
+fcsrt_visit_type,"In this test, the participant is presented with sheets with 4 pictures. They are asked to point towards the picture representing one category (e.g. fruit: grape), then name it. After this, the participant has to recall the word. This is done for 16 words.  If they miss, they are told what the missing word was and promped to repeat it. After the learning, there is an interference (counting down from 100 by 3s. Then, there are 3 immediate recal trials where, in case of failure to recall one word, they are cued with the category of the missing words (e.g. what was the fruit?). There is a delayed recall after ~20 mins"
+fcsrt_date,
+fcsrt_instrument,
+fcsrt_candidate_age,
+fcsrt_total_free_ir,"Free score in the immediate recall (total of 3 trials, maximum is 48)"
+fcsrt_total_ir,"Total (Free + cued) score in the immediate recall (total of 3 trials, maximum is 48)"
+fcsrt_total_free_dr,Free score in the delayed recall (out of 16)
+fcsrt_total_dr,Total (Free + cued) score in the delayed recall (out of 16)
+fcsrt_identify1,Picture 1 pointed correctly (which one is the fruit?)
+fcsrt_name1,Picture 1 named correctly after pointing (grapes)
+fcsrt_icr1,"Word 1 recalled correctly after hiding the picture sheet. ""what was the fruit?"" if not recalled, then ""The fruit was the grapes. What was the fruit?"""
+fcsrt_identify2,which one is the Sports equipment
+fcsrt_name2,Racquet
+fcsrt_icr2,
+fcsrt_identify3,which one is the Bird
+fcsrt_name3,Owl
+fcsrt_icr3,
+fcsrt_identify4,which one is the furniture
+fcsrt_name4,Desk
+fcsrt_icr4,
+fcsrt_identify5,which one is part of a building
+fcsrt_name5,Chimney
+fcsrt_icr5,
+fcsrt_identify6,which one is the type of boat
+fcsrt_name6,Submarine
+fcsrt_icr6,
+fcsrt_identify7,which one is the fastener
+fcsrt_name7,Paper clip
+fcsrt_icr7,
+fcsrt_identify8,which one is the  fish
+fcsrt_name8,Shark
+fcsrt_icr8,
+fcsrt_identify9,Which one is used for measuring
+fcsrt_name9,Ruler
+fcsrt_icr9,
+fcsrt_identify10,Which one is used for seeing
+fcsrt_name10,Binoculars
+fcsrt_icr10,
+fcsrt_identify11,Which one is a kind of plant
+fcsrt_name11,Cactus
+fcsrt_icr11,
+fcsrt_identify12,Which one is used by babies
+fcsrt_name12,Rattle
+fcsrt_icr12,
+fcsrt_identify13,Which one is a part of a car
+fcsrt_name13,Steering wheel
+fcsrt_icr13,
+fcsrt_identify14,Which one is for holding liquids
+fcsrt_name14,Pitcher (or jug)
+fcsrt_icr14,
+fcsrt_identify15,Which one is a toiletry
+fcsrt_name15,Razor
+fcsrt_icr15,
+fcsrt_identify16,Which one is the musical instrument
+fcsrt_name16,Guitar
+fcsrt_icr16,
+fcsrt_trial1_1,"Word 1 recall type (free, cued or selective reminding). SR means that they couldn't recall even with the cue and the experimenter told them the word."
+fcsrt_trial2_1,Word 1 recall for the 2nd trial
+fcsrt_trial3_1,Word 1 recall for the 3rd trial
+fcsrt_trial1_2,etc
+fcsrt_trial2_2,
+fcsrt_trial3_2,
+fcsrt_trial1_3,
+fcsrt_trial2_3,
+fcsrt_trial3_3,
+fcsrt_trial1_4,
+fcsrt_trial2_4,
+fcsrt_trial3_4,
+fcsrt_trial1_5,
+fcsrt_trial2_5,
+fcsrt_trial3_5,
+fcsrt_trial1_6,
+fcsrt_trial2_6,
+fcsrt_trial3_6,
+fcsrt_trial1_7,
+fcsrt_trial2_7,
+fcsrt_trial3_7,
+fcsrt_trial1_8,
+fcsrt_trial2_8,
+fcsrt_trial3_8,
+fcsrt_trial1_9,
+fcsrt_trial2_9,
+fcsrt_trial3_9,
+fcsrt_trial1_10,
+fcsrt_trial2_10,
+fcsrt_trial3_10,
+fcsrt_trial1_11,
+fcsrt_trial2_11,
+fcsrt_trial3_11,
+fcsrt_trial1_12,
+fcsrt_trial2_12,
+fcsrt_trial3_12,
+fcsrt_trial1_13,
+fcsrt_trial2_13,
+fcsrt_trial3_13,
+fcsrt_trial1_14,
+fcsrt_trial2_14,
+fcsrt_trial3_14,
+fcsrt_trial1_15,
+fcsrt_trial2_15,
+fcsrt_trial3_15,
+fcsrt_trial1_16,
+fcsrt_trial2_16,
+fcsrt_trial3_16,
+fcsrt_delayed_interval,Time interval between the end of the 3rd immediate recall and the delayed recall trial (DR)
+fcsrt_free_dr_1,Was word 1 recalled freely in the delayed recall?
+fcsrt_cued_dr_1,"If not, was it recalled with the cue?"
+fcsrt_free_dr_2,Etc
+fcsrt_cued_dr_2,
+fcsrt_free_dr_3,
+fcsrt_cued_dr_3,
+fcsrt_free_dr_4,
+fcsrt_cued_dr_4,
+fcsrt_free_dr_5,
+fcsrt_cued_dr_5,
+fcsrt_free_dr_6,
+fcsrt_cued_dr_6,
+fcsrt_free_dr_7,
+fcsrt_cued_dr_7,
+fcsrt_free_dr_8,
+fcsrt_cued_dr_8,
+fcsrt_free_dr_9,
+fcsrt_cued_dr_9,
+fcsrt_free_dr_10,
+fcsrt_cued_dr_10,
+fcsrt_free_dr_11,
+fcsrt_cued_dr_11,
+fcsrt_free_dr_12,
+fcsrt_cued_dr_12,
+fcsrt_free_dr_13,
+fcsrt_cued_dr_13,
+fcsrt_free_dr_14,
+fcsrt_cued_dr_14,
+fcsrt_free_dr_15,
+fcsrt_cued_dr_15,
+fcsrt_free_dr_16,
+fcsrt_cued_dr_16,
+face_name_visit_type,"A computerized task where faces are presented and identified with a name. Afterward, the participant has to recall the names associated with the faces. There is also a 20 mins delayed recall followed by a recognition where they have to if the name-face pair matches, if the name is new or if the name of another face was put there. "
+face_name_date,
+face_name_instrument,
+face_name_candidate_age,
+face_name_total_ir,Out of 9
+face_name_total_dr,Out of 9
+face_name_total_drecog,Out of 9
+face_name_ir_correct_1,Was face 1 correctly identified?
+face_name_ir_verbatim_1,What was the response? (correct = Elizabeth)
+face_name_ir_correct_2,
+face_name_ir_verbatim_2,Correct = Mary
+face_name_ir_correct_3,
+face_name_ir_verbatim_3,Correct = Charles
+face_name_ir_correct_4,
+face_name_ir_verbatim_4,Correct = Michael
+face_name_ir_correct_5,
+face_name_ir_verbatim_5,Correct = Linda
+face_name_ir_correct_6,
+face_name_ir_verbatim_6,Correct = Joseph
+face_name_ir_correct_7,
+face_name_ir_verbatim_7,Correct = Susan
+face_name_ir_correct_8,
+face_name_ir_verbatim_8,Correct = Patricia
+face_name_ir_correct_9,
+face_name_ir_verbatim_9,Correct = William
+face_name_dr_correct_1,"Same as immediate recall, but after a 20 mins delay."
+face_name_dr_verbatim_1,
+face_name_dr_correct_2,
+face_name_dr_verbatim_2,
+face_name_dr_correct_3,
+face_name_dr_verbatim_3,
+face_name_dr_correct_4,
+face_name_dr_verbatim_4,
+face_name_dr_correct_5,
+face_name_dr_verbatim_5,
+face_name_dr_correct_6,
+face_name_dr_verbatim_6,
+face_name_dr_correct_7,
+face_name_dr_verbatim_7,
+face_name_dr_correct_8,
+face_name_dr_verbatim_8,
+face_name_dr_correct_9,
+face_name_dr_verbatim_9,
+face_name_delayed_interval,Time interval between the end of the immediate recall and the beginning of the delayed recall
+face_name_drecog_1,"1 = new name, 2 = same name-face pair as learned, 3 = name of another face on the wrong face. Correct : 2"
+face_name_drecog_2,Correct: 3
+face_name_drecog_3,Correct: 1
+face_name_drecog_4,Correct: 3
+face_name_drecog_5,Correct: 2
+face_name_drecog_6,Correct: 1
+face_name_drecog_7,Correct: 1
+face_name_drecog_8,Correct: 3
+face_name_drecog_9,Correct: 2
+logical_mem_del_visit_type,"The participant is told a story. He then has to recall it, including as many elements of the original story as possible. After a 20+ mins delay, the participant has to recall it again."
+logical_mem_del_date,
+logical_mem_del_instrument,
+logical_mem_del_candidate_age,
+logical_mem_del_story_used,Should not be used. Half of the fields are not properly entered. 
+logical_mem_del_delayed_interval,Time interval between the end of the immediate recall and the beginning of the delayed recall
+logical_mem_del_total_score_dr,Number of elements from the delayed recall reminded from the story (max = 25)
+logical_mem_del_cue_given,Were they asked if they recalled anything else from the story?
+logical_memory_imm_visit_type,Redundant
+logical_memory_imm_date,Redundant
+logical_memory_imm_instrument,Redundant
+logical_memory_imm_candidate_age,Redundant
+logical_memory_imm_story_used,Redundant
+logical_memory_imm_total_score_ir,Number of elements from the immediate recall reminded from the story (max = 25)
+moca_visit_type,Quick general cognitive state test (10 minutes)
+moca_date,
+moca_instrument,
+moca_candidate_age,
+moca_version,
+moca_12_years_of_education,1 point is added if the participant has 12 years of education or less
+moca_visuopatial,"Mini version of the trail making test (1pt), copying a cube in drawing (1pt), drawing a clock showing ten past eleven (3pts)"
+moca_naming,Naming 3 pictures of animals (3pts)
+moca_att_digital_span,Repeat 5 digits forward and 3 digits backward (2pts)
+moca_att_letter_tapping,"Subject must tap every time the experimenter says ""1"" within a list of 30 digits (1 pt if 1 error or less)"
+moca_att_serial_7s,"From 100, count down by jumps of 7 (3 pts if they get to 72, 2 pts if they get to 86, 1 pt if they get 93)"
+moca_lang_sentence,Repeat 2 sentences correctly (2 pts)
+moca_lang_fluency,Name animals (1 minute). 1Pt if at least 11 words
+moca_abstraction,Telling what is the similarity between 2 words: train-bicycle (1pt) and watch-ruler (1pt)
+moca_delayed_recall,5 words were told 5 mins before and the participant repeated them twice. This is the delayed recall score with no cue (5pts)
+moca_orientation,"Date, month, Year, day, place, city (6pts)"
+moca_total_score,Total score out of 30
+ravlt_visit,"The participant is presented auditorially with a list of 15 words. They have to recall them freely afterward. This is repeated 5 times for the learning phase (a1 to a5). Then, the participant is presented with an interference list (b1), which is followed by 3 recalls of the first list: immediate free recall (a6),  and 20+ mins later, delayed free recall (a7) and delayed recognition."
+ravlt_date,
+ravlt_instrument,
+ravlt_age_in_months,
+ravlt_trial_a1_raw,Number of correctly recalled words
+ravlt_trial_a1_intrusions,Number of words produced that were not in the list
+ravlt_trial_a1_repetitions,Number of words produced more than once
+ravlt_trial_a2_raw,etc
+ravlt_trial_a2_intrusions,
+ravlt_trial_a2_repetitions,
+ravlt_trial_a3_raw,
+ravlt_trial_a3_intrusions,
+ravlt_trial_a3_repetitions,
+ravlt_trial_a4_raw,
+ravlt_trial_a4_intrusions,
+ravlt_trial_a4_repetitions,
+ravlt_trial_a5_raw,
+ravlt_trial_a5_intrusions,
+ravlt_trial_a5_repetitions,
+ravlt_trial_b1_raw,
+ravlt_trial_b1_intrusions,
+ravlt_trial_b1_repetitions,
+ravlt_trial_a6_raw,
+ravlt_trial_a6_intrusions,
+ravlt_trial_a6_repetitions,
+ravlt_trial_a7_raw,
+ravlt_trial_a7_intrusions,
+ravlt_trial_a7_repetitions,
+ravlt_total_intrusions,Total number of intrusions in all 8 trials
+ravlt_total_repetitions,Total number of repetitions in all 8 trials
+ravlt_recognition_hits,Number of correct recognitions out of 15
+ravlt_recognition_false_pos,Number of false positives (max 35)
+ravlt_recognition_discrimination_index_score,This is the number of hits minus the number of false positives
+ravlt_trial_a1_response_1,First correct word produced after being presented with the list A the first time
+ravlt_trial_a2_response_1,First correct word produced after being presented with the list A the second time
+ravlt_trial_a3_response_1,First correct word produced after being presented with the list A the third time
+ravlt_trial_a4_response_1,First correct word produced after being presented with the list A the fourth time
+ravlt_trial_a5_response_1,First correct word produced after being presented with the list A the fifth time
+ravlt_trial_a1_intrusion_1,First incorrect word produced after being presented with the list A the first time
+ravlt_trial_a2_intrusion_1,First incorrect word produced after being presented with the list A the second time
+ravlt_trial_a3_intrusion_1,First incorrect word produced after being presented with the list A the third time
+ravlt_trial_a4_intrusion_1,First incorrect word produced after being presented with the list A the fourth time
+ravlt_trial_a5_intrusion_1,First incorrect word produced after being presented with the list A the fifth time
+ravlt_trial_a1_response_2,etc
+ravlt_trial_a2_response_2,
+ravlt_trial_a3_response_2,
+ravlt_trial_a4_response_2,
+ravlt_trial_a5_response_2,
+ravlt_trial_a1_intrusion_2,
+ravlt_trial_a2_intrusion_2,
+ravlt_trial_a3_intrusion_2,
+ravlt_trial_a4_intrusion_2,
+ravlt_trial_a5_intrusion_2,
+ravlt_trial_a1_response_3,
+ravlt_trial_a2_response_3,
+ravlt_trial_a3_response_3,
+ravlt_trial_a4_response_3,
+ravlt_trial_a5_response_3,
+ravlt_trial_a1_intrusion_3,
+ravlt_trial_a2_intrusion_3,
+ravlt_trial_a3_intrusion_3,
+ravlt_trial_a4_intrusion_3,
+ravlt_trial_a5_intrusion_3,
+ravlt_trial_a1_response_4,
+ravlt_trial_a2_response_4,
+ravlt_trial_a3_response_4,
+ravlt_trial_a4_response_4,
+ravlt_trial_a5_response_4,
+ravlt_trial_a1_intrusion_4,
+ravlt_trial_a2_intrusion_4,
+ravlt_trial_a3_intrusion_4,
+ravlt_trial_a4_intrusion_4,
+ravlt_trial_a5_intrusion_4,
+ravlt_trial_a1_response_5,
+ravlt_trial_a2_response_5,
+ravlt_trial_a3_response_5,
+ravlt_trial_a4_response_5,
+ravlt_trial_a5_response_5,
+ravlt_trial_a1_intrusion_5,
+ravlt_trial_a2_intrusion_5,
+ravlt_trial_a3_intrusion_5,
+ravlt_trial_a4_intrusion_5,
+ravlt_trial_a5_intrusion_5,
+ravlt_trial_a1_response_6,
+ravlt_trial_a2_response_6,
+ravlt_trial_a3_response_6,
+ravlt_trial_a4_response_6,
+ravlt_trial_a5_response_6,
+ravlt_trial_a1_intrusion_6,
+ravlt_trial_a2_intrusion_6,
+ravlt_trial_a3_intrusion_6,
+ravlt_trial_a4_intrusion_6,
+ravlt_trial_a5_intrusion_6,
+ravlt_trial_a1_response_7,
+ravlt_trial_a2_response_7,
+ravlt_trial_a3_response_7,
+ravlt_trial_a4_response_7,
+ravlt_trial_a5_response_7,
+ravlt_trial_a1_intrusion_7,
+ravlt_trial_a2_intrusion_7,
+ravlt_trial_a3_intrusion_7,
+ravlt_trial_a4_intrusion_7,
+ravlt_trial_a5_intrusion_7,
+ravlt_trial_a1_response_8,
+ravlt_trial_a2_response_8,
+ravlt_trial_a3_response_8,
+ravlt_trial_a4_response_8,
+ravlt_trial_a5_response_8,
+ravlt_trial_a1_intrusion_8,
+ravlt_trial_a2_intrusion_8,
+ravlt_trial_a3_intrusion_8,
+ravlt_trial_a4_intrusion_8,
+ravlt_trial_a5_intrusion_8,
+ravlt_trial_a1_response_9,
+ravlt_trial_a2_response_9,
+ravlt_trial_a3_response_9,
+ravlt_trial_a4_response_9,
+ravlt_trial_a5_response_9,
+ravlt_trial_a1_intrusion_9,
+ravlt_trial_a2_intrusion_9,
+ravlt_trial_a3_intrusion_9,
+ravlt_trial_a4_intrusion_9,
+ravlt_trial_a5_intrusion_9,
+ravlt_trial_a1_response_10,
+ravlt_trial_a2_response_10,
+ravlt_trial_a3_response_10,
+ravlt_trial_a4_response_10,
+ravlt_trial_a5_response_10,
+ravlt_trial_a1_intrusion_10,
+ravlt_trial_a2_intrusion_10,
+ravlt_trial_a3_intrusion_10,
+ravlt_trial_a4_intrusion_10,
+ravlt_trial_a5_intrusion_10,
+ravlt_trial_a1_response_11,
+ravlt_trial_a2_response_11,
+ravlt_trial_a3_response_11,
+ravlt_trial_a4_response_11,
+ravlt_trial_a5_response_11,
+ravlt_trial_a1_intrusion_11,
+ravlt_trial_a2_intrusion_11,
+ravlt_trial_a3_intrusion_11,
+ravlt_trial_a4_intrusion_11,
+ravlt_trial_a5_intrusion_11,
+ravlt_trial_a1_response_12,
+ravlt_trial_a2_response_12,
+ravlt_trial_a3_response_12,
+ravlt_trial_a4_response_12,
+ravlt_trial_a5_response_12,
+ravlt_trial_a1_intrusion_12,
+ravlt_trial_a2_intrusion_12,
+ravlt_trial_a3_intrusion_12,
+ravlt_trial_a4_intrusion_12,
+ravlt_trial_a5_intrusion_12,
+ravlt_trial_a1_response_13,
+ravlt_trial_a2_response_13,
+ravlt_trial_a3_response_13,
+ravlt_trial_a4_response_13,
+ravlt_trial_a5_response_13,
+ravlt_trial_a1_intrusion_13,
+ravlt_trial_a2_intrusion_13,
+ravlt_trial_a3_intrusion_13,
+ravlt_trial_a4_intrusion_13,
+ravlt_trial_a5_intrusion_13,
+ravlt_trial_a1_response_14,
+ravlt_trial_a2_response_14,
+ravlt_trial_a3_response_14,
+ravlt_trial_a4_response_14,
+ravlt_trial_a5_response_14,
+ravlt_trial_a1_intrusion_14,
+ravlt_trial_a2_intrusion_14,
+ravlt_trial_a3_intrusion_14,
+ravlt_trial_a4_intrusion_14,
+ravlt_trial_a5_intrusion_14,
+ravlt_trial_a1_response_15,
+ravlt_trial_a2_response_15,
+ravlt_trial_a3_response_15,
+ravlt_trial_a4_response_15,
+ravlt_trial_a5_response_15,
+ravlt_trial_a1_intrusion_15,
+ravlt_trial_a2_intrusion_15,
+ravlt_trial_a3_intrusion_15,
+ravlt_trial_a4_intrusion_15,
+ravlt_trial_a5_intrusion_15,
+ravlt_trial_b1_additional_responses,If there are additional responses in trial B
+ravlt_trial_a6_additional_responses,If there are additional responses in trial a6
+ravlt_trial_a7_additional_responses,If there are additional responses in trial a7
+ravlt_trial_a6_to_a7_minutes,Time interval between the end of the immediate recall and the beginning of the delayed recall
+ravlt_trial_a6_to_a7_interval_status,Redundant
+ravlt_trial_b1_response_1,First correct word produced after being presented with the list B 
+ravlt_trial_a6_response_1,First correct word produced after being asked to recall list A (immediate recall)
+ravlt_trial_a7_response_1,First correct word produced after being asked to recall list A (delayed recall)
+ravlt_trial_b1_intrusion_1,First incorrect word produced after being presented with the list B 
+ravlt_trial_a6_intrusion_1,First incorrect word produced after being asked to recall list A (immediate recall)
+ravlt_trial_a7_intrusion_1,First incorrect word produced after being asked to recall list A (delayed recall)
+ravlt_trial_b1_response_2,etc
+ravlt_trial_a6_response_2,
+ravlt_trial_a7_response_2,
+ravlt_trial_b1_intrusion_2,
+ravlt_trial_a6_intrusion_2,
+ravlt_trial_a7_intrusion_2,
+ravlt_trial_b1_response_3,
+ravlt_trial_a6_response_3,
+ravlt_trial_a7_response_3,
+ravlt_trial_b1_intrusion_3,
+ravlt_trial_a6_intrusion_3,
+ravlt_trial_a7_intrusion_3,
+ravlt_trial_b1_response_4,
+ravlt_trial_a6_response_4,
+ravlt_trial_a7_response_4,
+ravlt_trial_b1_intrusion_4,
+ravlt_trial_a6_intrusion_4,
+ravlt_trial_a7_intrusion_4,
+ravlt_trial_b1_response_5,
+ravlt_trial_a6_response_5,
+ravlt_trial_a7_response_5,
+ravlt_trial_b1_intrusion_5,
+ravlt_trial_a6_intrusion_5,
+ravlt_trial_a7_intrusion_5,
+ravlt_trial_b1_response_6,
+ravlt_trial_a6_response_6,
+ravlt_trial_a7_response_6,
+ravlt_trial_b1_intrusion_6,
+ravlt_trial_a6_intrusion_6,
+ravlt_trial_a7_intrusion_6,
+ravlt_trial_b1_response_7,
+ravlt_trial_a6_response_7,
+ravlt_trial_a7_response_7,
+ravlt_trial_b1_intrusion_7,
+ravlt_trial_a6_intrusion_7,
+ravlt_trial_a7_intrusion_7,
+ravlt_trial_b1_response_8,
+ravlt_trial_a6_response_8,
+ravlt_trial_a7_response_8,
+ravlt_trial_b1_intrusion_8,
+ravlt_trial_a6_intrusion_8,
+ravlt_trial_a7_intrusion_8,
+ravlt_trial_b1_response_9,
+ravlt_trial_a6_response_9,
+ravlt_trial_a7_response_9,
+ravlt_trial_b1_intrusion_9,
+ravlt_trial_a6_intrusion_9,
+ravlt_trial_a7_intrusion_9,
+ravlt_trial_b1_response_10,
+ravlt_trial_a6_response_10,
+ravlt_trial_a7_response_10,
+ravlt_trial_b1_intrusion_10,
+ravlt_trial_a6_intrusion_10,
+ravlt_trial_a7_intrusion_10,
+ravlt_trial_b1_response_11,
+ravlt_trial_a6_response_11,
+ravlt_trial_a7_response_11,
+ravlt_trial_b1_intrusion_11,
+ravlt_trial_a6_intrusion_11,
+ravlt_trial_a7_intrusion_11,
+ravlt_trial_b1_response_12,
+ravlt_trial_a6_response_12,
+ravlt_trial_a7_response_12,
+ravlt_trial_b1_intrusion_12,
+ravlt_trial_a6_intrusion_12,
+ravlt_trial_a7_intrusion_12,
+ravlt_trial_b1_response_13,
+ravlt_trial_a6_response_13,
+ravlt_trial_a7_response_13,
+ravlt_trial_b1_intrusion_13,
+ravlt_trial_a6_intrusion_13,
+ravlt_trial_a7_intrusion_13,
+ravlt_trial_b1_response_14,
+ravlt_trial_a6_response_14,
+ravlt_trial_a7_response_14,
+ravlt_trial_b1_intrusion_14,
+ravlt_trial_a6_intrusion_14,
+ravlt_trial_a7_intrusion_14,
+ravlt_trial_b1_response_15,
+ravlt_trial_a6_response_15,
+ravlt_trial_a7_response_15,
+ravlt_trial_b1_intrusion_15,
+ravlt_trial_a6_intrusion_15,
+ravlt_trial_a7_intrusion_15,
+ravlt_recognition_row_1_col_1_response,Was the stimulus recognized or not? Correct: Yes (ceinture)
+ravlt_recognition_row_1_col_2_response,Correct: no
+ravlt_recognition_row_1_col_3_response,Correct: no
+ravlt_recognition_row_1_col_4_response,Correct: no
+ravlt_recognition_row_1_col_5_response,Correct: no
+ravlt_recognition_row_2_col_1_response,Correct: no
+ravlt_recognition_row_2_col_2_response,Correct: no
+ravlt_recognition_row_2_col_3_response,Correct: yes (rideau)
+ravlt_recognition_row_2_col_4_response,Correct: no
+ravlt_recognition_row_2_col_5_response,Correct: no
+ravlt_recognition_row_3_col_1_response,Correct: yes (casquette)
+ravlt_recognition_row_3_col_2_response,Correct: yes (soleil)
+ravlt_recognition_row_3_col_3_response,Correct: no
+ravlt_recognition_row_3_col_4_response,Correct: yes (parent)
+ravlt_recognition_row_3_col_5_response,Correct: no
+ravlt_recognition_row_4_col_1_response,Correct: no
+ravlt_recognition_row_4_col_2_response,Correct: no
+ravlt_recognition_row_4_col_3_response,Correct: yes (couleur)
+ravlt_recognition_row_4_col_4_response,Correct: no
+ravlt_recognition_row_4_col_5_response,Correct: no
+ravlt_recognition_row_5_col_1_response,Correct: no
+ravlt_recognition_row_5_col_2_response,Correct: no
+ravlt_recognition_row_5_col_3_response,Correct: no
+ravlt_recognition_row_5_col_4_response,Correct: yes (paysan)
+ravlt_recognition_row_5_col_5_response,Correct: no
+ravlt_recognition_row_6_col_1_response,Correct: yes (moustache)
+ravlt_recognition_row_6_col_2_response,Correct: no
+ravlt_recognition_row_6_col_3_response,Correct: no
+ravlt_recognition_row_6_col_4_response,Correct: no
+ravlt_recognition_row_6_col_5_response,Correct: no
+ravlt_recognition_row_7_col_1_response,Correct: no
+ravlt_recognition_row_7_col_2_response,Correct: no
+ravlt_recognition_row_7_col_3_response,Correct: no
+ravlt_recognition_row_7_col_4_response,Correct: no
+ravlt_recognition_row_7_col_5_response,Correct: no
+ravlt_recognition_row_8_col_1_response,Correct: yes (École)
+ravlt_recognition_row_8_col_2_response,Correct: yes (Café)
+ravlt_recognition_row_8_col_3_response,Correct: no
+ravlt_recognition_row_8_col_4_response,Correct: yes (Maison)
+ravlt_recognition_row_8_col_5_response,Correct: yes (Tambour)
+ravlt_recognition_row_9_col_1_response,Correct: no
+ravlt_recognition_row_9_col_2_response,Correct: no
+ravlt_recognition_row_9_col_3_response,Correct: yes (Dindon)
+ravlt_recognition_row_9_col_4_response,Correct: no
+ravlt_recognition_row_9_col_5_response,Correct: no
+ravlt_recognition_row_10_col_1_response,Correct: no
+ravlt_recognition_row_10_col_2_response,Correct: yes (Rivière)
+ravlt_recognition_row_10_col_3_response,Correct: no
+ravlt_recognition_row_10_col_4_response,Correct: yes (Jardin)
+ravlt_recognition_row_10_col_5_response,Correct: no
+ravlt_trial_a1_additional_responses,"If the fields above were insufficient, add the extra responses below"
+ravlt_trial_a2_additional_responses,etc
+ravlt_trial_a3_additional_responses,
+ravlt_trial_a4_additional_responses,
+ravlt_trial_a5_additional_responses,
+ravlt_trial_a1_response_16,
+ravlt_trial_a2_response_16,
+ravlt_trial_a3_response_16,
+ravlt_trial_a4_response_16,
+ravlt_trial_a5_response_16,
+ravlt_trial_a1_intrusion_16,
+ravlt_trial_a2_intrusion_16,
+ravlt_trial_a3_intrusion_16,
+ravlt_trial_a4_intrusion_16,
+ravlt_trial_a5_intrusion_16,
+ravlt_trial_a1_response_17,
+ravlt_trial_a2_response_17,
+ravlt_trial_a3_response_17,
+ravlt_trial_a4_response_17,
+ravlt_trial_a5_response_17,
+ravlt_trial_a1_intrusion_17,
+ravlt_trial_a2_intrusion_17,
+ravlt_trial_a3_intrusion_17,
+ravlt_trial_a4_intrusion_17,
+ravlt_trial_a5_intrusion_17,
+ravlt_trial_a1_response_18,
+ravlt_trial_a2_response_18,
+ravlt_trial_a3_response_18,
+ravlt_trial_a4_response_18,
+ravlt_trial_a5_response_18,
+ravlt_trial_a1_intrusion_18,
+ravlt_trial_a2_intrusion_18,
+ravlt_trial_a3_intrusion_18,
+ravlt_trial_a4_intrusion_18,
+ravlt_trial_a5_intrusion_18,
+ravlt_trial_a1_response_19,
+ravlt_trial_a2_response_19,
+ravlt_trial_a3_response_19,
+ravlt_trial_a4_response_19,
+ravlt_trial_a5_response_19,
+ravlt_trial_a1_intrusion_19,
+ravlt_trial_a2_intrusion_19,
+ravlt_trial_a3_intrusion_19,
+ravlt_trial_a4_intrusion_19,
+ravlt_trial_a5_intrusion_19,
+ravlt_trial_a1_response_20,
+ravlt_trial_a2_response_20,
+ravlt_trial_a3_response_20,
+ravlt_trial_a4_response_20,
+ravlt_trial_a5_response_20,
+ravlt_trial_a1_intrusion_20,
+ravlt_trial_a2_intrusion_20,
+ravlt_trial_a3_intrusion_20,
+ravlt_trial_a4_intrusion_20,
+ravlt_trial_a5_intrusion_20,
+ravlt_trial_a1_response_21,
+ravlt_trial_a2_response_21,
+ravlt_trial_a3_response_21,
+ravlt_trial_a4_response_21,
+ravlt_trial_a5_response_21,
+ravlt_trial_a1_intrusion_21,
+ravlt_trial_a2_intrusion_21,
+ravlt_trial_a3_intrusion_21,
+ravlt_trial_a4_intrusion_21,
+ravlt_trial_a5_intrusion_21,
+ravlt_trial_b1_response_16,
+ravlt_trial_a6_response_16,
+ravlt_trial_a7_response_16,
+ravlt_trial_b1_intrusion_16,
+ravlt_trial_a6_intrusion_16,
+ravlt_trial_a7_intrusion_16,
+ravlt_trial_b1_response_17,
+ravlt_trial_a6_response_17,
+ravlt_trial_a7_response_17,
+ravlt_trial_b1_intrusion_17,
+ravlt_trial_a6_intrusion_17,
+ravlt_trial_a7_intrusion_17,
+ravlt_trial_b1_response_18,
+ravlt_trial_a6_response_18,
+ravlt_trial_a7_response_18,
+ravlt_trial_b1_intrusion_18,
+ravlt_trial_a6_intrusion_18,
+ravlt_trial_a7_intrusion_18,
+ravlt_trial_b1_response_19,
+ravlt_trial_a6_response_19,
+ravlt_trial_a7_response_19,
+ravlt_trial_b1_intrusion_19,
+ravlt_trial_a6_intrusion_19,
+ravlt_trial_a7_intrusion_19,
+ravlt_trial_b1_response_20,
+ravlt_trial_a6_response_20,
+ravlt_trial_a7_response_20,
+ravlt_trial_b1_intrusion_20,
+ravlt_trial_a6_intrusion_20,
+ravlt_trial_a7_intrusion_20,
+ravlt_trial_b1_response_21,
+ravlt_trial_a6_response_21,
+ravlt_trial_a7_response_21,
+ravlt_trial_b1_intrusion_21,
+ravlt_trial_a6_intrusion_21,
+ravlt_trial_a7_intrusion_21,
+ravlt_trial_b1_response_22,
+ravlt_trial_a6_response_22,
+ravlt_trial_a7_response_22,
+ravlt_trial_b1_intrusion_22,
+ravlt_trial_a6_intrusion_22,
+ravlt_trial_a7_intrusion_22,
+ravlt_trial_b1_response_23,
+ravlt_trial_a6_response_23,
+ravlt_trial_a7_response_23,
+ravlt_trial_b1_intrusion_23,
+ravlt_trial_a6_intrusion_23,
+ravlt_trial_a7_intrusion_23,
+reitan_visit_type,"As quickly as possible, the participant has to link characters following a specified order in 2 different trials: A consists in linking numbers in order. B consists in linking alternatively between letters and numbers in order (1-a-2-b-3-c-4-d etc.) A is to measure motor processing while B is for task switching. We usually subtract the time for B with the time for A."
+reitan_date,
+reitan_instrument,
+reitan_candidate_age,
+reitan_trail_a_time,Time for trial A
+reitan_trail_a_error,Number of errors in trial A
+reitan_trail_b_time,Time for trial B (SUBTRACT WITH A)
+reitan_trail_b_error,Number of errors in trial B 
+ds_visit_type,"The participant is given a sequence of digits, which they have to repeat in a specified order. The initial sequence length is 2 digits long, increasing incrementally every two trials. The test continues until the participant fails two trials of the same length. "
+ds_date,
+ds_instrument,
+candidate_age,
+ds_score_raw,Number of sequences (either forward or backward) recalled successfully out of a max of 30
+ds_score_scaled,"Score adjusted for demographics (mean = 10, SD = 3)"
+ds_score_raw_fwd,Number of forward sequences recalled successfully (max of 16)
+ds_score_scaled_fwd,"Score adjusted for demographics (mean = 10, SD = 3)"
+ds_score_raw_bkwd,Number of backward sequences recalled successfully (max of 16)
+ds_score_scaled_bkwd,"Score adjusted for demographics (mean = 10, SD = 3)"
+ds_fwd_trial_1_1,"First forward sequence, length of 2"
+ds_fwd_trial_1_2,"Second forward sequence, length of 2"
+ds_fwd_item_1,Total of the 2 forward sequences 2 digits long
+ds_fwd_trial_2_1,"First forward sequence, length of 3"
+ds_fwd_trial_2_2,"Second forward sequence, length of 3"
+ds_fwd_item_2,Total of the 2 forward sequences 3 digits long
+ds_fwd_trial_3_1,"First forward sequence, length of 4"
+ds_fwd_trial_3_2,"Second forward sequence, length of 4"
+ds_fwd_item_3,Total of the 2 forward sequences 4 digits long
+ds_fwd_trial_4_1,"First forward sequence, length of 5"
+ds_fwd_trial_4_2,"Second forward sequence, length of 5"
+ds_fwd_item_4,Total of the 2 forward sequences 5 digits long
+ds_fwd_trial_5_1,"First forward sequence, length of 6"
+ds_fwd_trial_5_2,"Second forward sequence, length of 6"
+ds_fwd_item_5,Total of the 2 forward sequences 6 digits long
+ds_fwd_trial_6_1,"First forward sequence, length of 7"
+ds_fwd_trial_6_2,"Second forward sequence, length of 7"
+ds_fwd_item_6,Total of the 2 forward sequences 7 digits long
+ds_fwd_trial_7_1,"First forward sequence, length of 8"
+ds_fwd_trial_7_2,"Second forward sequence, length of 8"
+ds_fwd_item_7,Total of the 2 forward sequences 8 digits long
+ds_fwd_trial_8_1,"First forward sequence, length of 9"
+ds_fwd_trial_8_2,"Second forward sequence, length of 9"
+ds_fwd_item_8,Total of the 2 forward sequences 9 digits long
+ds_bkwd_trial_1_1,"First backward sequence, length of 2"
+ds_bkwd_trial_1_2,"Second backward sequence, length of 2"
+ds_bkwd_item_1,Total of the 2 backward sequences 2 digits long
+ds_bkwd_trial_2_1,"First backward sequence, length of 3"
+ds_bkwd_trial_2_2,"Second backward sequence, length of 3"
+ds_bkwd_item_2,Total of the 2 backward sequences 3 digits long
+ds_bkwd_trial_3_1,"First backward sequence, length of 4"
+ds_bkwd_trial_3_2,"Second backward sequence, length of 4"
+ds_bkwd_item_3,Total of the 2 backward sequences 4 digits long
+ds_bkwd_trial_4_1,"First backward sequence, length of 5"
+ds_bkwd_trial_4_2,"Second backward sequence, length of 5"
+ds_bkwd_item_4,Total of the 2 backward sequences 5 digits long
+ds_bkwd_trial_5_1,"First backward sequence, length of 6"
+ds_bkwd_trial_5_2,"Second backward sequence, length of 6"
+ds_bkwd_item_5,Total of the 2 backward sequences 6 digits long
+ds_bkwd_trial_6_1,"First backward sequence, length of 7"
+ds_bkwd_trial_6_2,"Second backward sequence, length of 7"
+ds_bkwd_item_6,Total of the 2 backward sequences 7 digits long
+ds_bkwd_trial_7_1,"First backward sequence, length of 8"
+ds_bkwd_trial_7_2,"Second backward sequence, length of 8"
+ds_bkwd_item_7,Total of the 2 backward sequences 8 digits long
+wasi_ii_com_visit_type,"This is a mini IQ test consisting of a verbal and a non-verbal reasoning subtests. Matrices is about completing an increasingly complex visual pattern with the correct option, and vocabulary is about correctly defining increasingly rare words."
+wasi_ii_com_date,
+wasi_ii_com_instrument,
+wasi_ii_com_candidate_age,
+wasi_ii_com_vocabulary_raw_score,"Total score in the vocabulary subtest out of 59. The subjects can have either 0, 1(partial) or 2 points per item. "
+wasi_ii_com_vocabulary_t_score,"Score adjusted for demographics (mean = 50, SD = 10)"
+wasi_ii_com_matrix_reasoning_raw_score,Total score in the matrix subtest out of 30. The subjects can have either 0 or 1 point pet item. 
+wasi_ii_com_matrix_reasoning_t_score,"Score adjusted for demographics (mean = 50, SD = 10)"
+wasi_ii_com_sum_of_t_scores,Sum of vocabulary and matrix t scores
+wasi_ii_com_composite_score,Transformation of the sum of T scores into a scale with a mean of 100 with an SD of 15
+wasi_ii_mat_visit_type,Redundant
+wasi_ii_mat_date,Redundant
+wasi_ii_mat_instrument,Redundant
+wasi_ii_mat_candidate_age,Redundant
+wasi_ii_mat_raw_score,Redundant
+wasi_ii_mat_scaled_score,Redundant
+wasi_ii_mat_item_sa,Sample item A (does not count)
+wasi_ii_mat_item_15,Option chosen (2 is correct)
+wasi_ii_mat_item_sb,Sample item B (does not count)
+wasi_ii_mat_item_16,Option chosen (5 is correct)
+wasi_ii_mat_item_1,Option chosen (2 is correct)
+wasi_ii_mat_item_17,Option chosen (4 is correct)
+wasi_ii_mat_item_2,Option chosen (1 is correct)
+wasi_ii_mat_item_18,Option chosen (2 is correct)
+wasi_ii_mat_item_3,Option chosen (3 is correct)
+wasi_ii_mat_item_19,Option chosen (4 is correct)
+wasi_ii_mat_item_4,Option chosen (1 is correct)
+wasi_ii_mat_item_20,Option chosen (2 is correct)
+wasi_ii_mat_item_5,Option chosen (5 is correct)
+wasi_ii_mat_item_21,Option chosen (3 is correct)
+wasi_ii_mat_item_6,Option chosen (1 is correct)
+wasi_ii_mat_item_22,Option chosen (3 is correct)
+wasi_ii_mat_item_7,Option chosen (3 is correct)
+wasi_ii_mat_item_23,Option chosen (1 is correct)
+wasi_ii_mat_item_8,Option chosen (3 is correct)
+wasi_ii_mat_item_24,Option chosen (4 is correct)
+wasi_ii_mat_item_9,Option chosen (4 is correct)
+wasi_ii_mat_item_25,Option chosen (4 is correct)
+wasi_ii_mat_item_10,Option chosen (2 is correct)
+wasi_ii_mat_item_26,Option chosen (2 is correct)
+wasi_ii_mat_item_11,Option chosen (3 is correct)
+wasi_ii_mat_item_27,Option chosen (5 is correct)
+wasi_ii_mat_item_12,Option chosen (4 is correct)
+wasi_ii_mat_item_28,Option chosen (5 is correct)
+wasi_ii_mat_item_13,Option chosen (1 is correct)
+wasi_ii_mat_item_29,Option chosen (1 is correct)
+wasi_ii_mat_item_14,Option chosen (4 is correct)
+wasi_ii_mat_item_30,Option chosen (2 is correct)
+wasi_ii_voc_visit_type,Redundant
+wasi_ii_voc_date,Redundant
+wasi_ii_voc_instrument,Redundant
+wasi_ii_voc_candidate_age,Redundant
+wasi_ii_voc_raw_score,Redundant
+wasi_ii_voc_scaled_score,Redundant
+wasi_ii_voc_item1,Fish/poisson (1pt)
+wasi_ii_voc_item2,Shovel/Pelle (1pt)
+wasi_ii_voc_item3,Shell/Coquillage (1pt)
+wasi_ii_voc_item4,Shirt/Chemise
+wasi_ii_voc_item5,Car/Voiture
+wasi_ii_voc_item6,Lamp/Lampe
+wasi_ii_voc_item7,Bird/Oiseau
+wasi_ii_voc_item8,Tongue/Langue
+wasi_ii_voc_item9,Pet/animal de compagnie
+wasi_ii_voc_item10,Lunch/Diner
+wasi_ii_voc_item11,Bell/Cloche
+wasi_ii_voc_item12,Calendar/Calendrier
+wasi_ii_voc_item13,Alligator/Aligator
+wasi_ii_voc_item14,Dance/Danse
+wasi_ii_voc_item15,Summer/Été
+wasi_ii_voc_item16,Reveal/Révéler
+wasi_ii_voc_item17,Decade/Décennie
+wasi_ii_voc_item18,Entertain/Divertir
+wasi_ii_voc_item19,Tradition
+wasi_ii_voc_item20,Enthusiastic/Enthousiaste
+wasi_ii_voc_item21,Improvise/Improviser
+wasi_ii_voc_item22,Haste/promptitude
+wasi_ii_voc_item23,Trend/Tendance
+wasi_ii_voc_item24,Impulse/Impulsion
+wasi_ii_voc_item25,Ruminate/Cogiter
+wasi_ii_voc_item26,Mollify/apaiser
+wasi_ii_voc_item27,Extirpate/Extirper
+wasi_ii_voc_item28,Panacea/Panacée
+wasi_ii_voc_item29,Perfunctory/Sommaire
+wasi_ii_voc_item30,Insipid/Insipide
+wasi_ii_voc_item31,Pavid/Pusillanime
