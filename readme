@@ -1,9 +1,22 @@
 This repository includes tutorials and guides in the "Wiki" tab above.
-So far, we have:
-
-R skills
-1. Using GGPlot
-2. Regressions and mediations
+Welcome to the TNL's tutorial wiki!
 
 Using Bash
-1. FOR loops
+1. BASH tutorial (Linux and MacOS command prompt)
+2. MincTools 101
+3. Image visualization and mask creation
+
+Software to work from your own computer
+1. [X2Go] (To connect remotely on the lab's computer) - Coming soon
+2. MobaXTerm (to use the lab's computer terminal interface from your computer)
+3. Installing & setting up a MincTools virtual machine on Windows
+
+Statistics skills
+1. Using GGPLOT (R)
+2. Regressions and mediations (R)
+3. RMINC (R & BASH)
+4. [VoxelStats] - Coming soon
+
+Other guides
+1. Neuropsych battery description
+2. Tips for writing (coming soon)
