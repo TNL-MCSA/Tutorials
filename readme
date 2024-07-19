@@ -1,5 +1,9 @@
-This repository includes tutorials and guides in the "Wiki" tab above.
 Welcome to the TNL's tutorial wiki!
+This repository includes tutorials and guides in the "Wiki" tab above.
+
+It also contains dictionary files for the following category of TRIAD data:
+1. Neuropsych measures
+2. Fluid biomarkers (coming soon)
 
 Using Bash
 1. BASH tutorial (Linux and MacOS command prompt)
